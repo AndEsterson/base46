@@ -39,7 +39,7 @@ M.base_30 = {
 
 -- check https://github.com/chriskempson/base16/blob/master/styling.md for more info
 M.base_16 = {
-  base00 = "#0F3B3A",
+  base00 = "#B154CF",
   base01 = "#155352",
   base02 = "#1A4D4C",
   base03 = "#215B59",
