@@ -5,8 +5,8 @@ local M = {}
 
 M.base_30 = {
   white = "#FFFFFF",
-  black = "#0F3B3A", -- usually your theme bg
-  darker_black = "#0D3534", -- 6% darker than black
+  black = "#DA5BD6", -- usually your theme bg
+  darker_black = "#A64A2E", -- 6% darker than black
   black2 = "#11413F", -- 6% lighter than black
   one_bg = "#1A4D4C", -- 10% lighter than black
   one_bg2 = "#215B59", -- 6% lighter than one_bg
